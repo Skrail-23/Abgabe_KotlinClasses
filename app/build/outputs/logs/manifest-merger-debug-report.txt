@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:2:1-25:12
+ADDED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:2:1-25:12
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\T480s\.gradle\caches\8.9\transforms\0cf36f58b1f6c5455fdf7d422b2bf58a\transformed\core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\T480s\.gradle\caches\8.9\transforms\4ee00652a27631b1a58e38d174c2dcf6\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\T480s\.gradle\caches\8.9\transforms\be3321acfa52cc3c794695d9b0e8de80\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
@@ -44,27 +44,27 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\T480s\.gradle\ca
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\T480s\.gradle\caches\8.9\transforms\040ddde44694dd227cc40181e5017104\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\T480s\.gradle\caches\8.9\transforms\31a3ef00d554ca6d27034f41edaa3b10\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\T480s\.gradle\caches\8.9\transforms\ad04a6111024c149bc62972867b407a1\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:2:1-25:12
 	package
-		INJECTED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml
-		ADDED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:2:1-25:12
-		INJECTED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml
+		ADDED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml
-		ADDED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:2:1-25:12
-		INJECTED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml
+		ADDED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml
-		ADDED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:2:1-25:12
-		INJECTED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml
+		ADDED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:5:5-23:19
+ADDED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:5:5-23:19
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\T480s\.gradle\caches\8.9\transforms\4ee00652a27631b1a58e38d174c2dcf6\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\T480s\.gradle\caches\8.9\transforms\4ee00652a27631b1a58e38d174c2dcf6\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\T480s\.gradle\caches\8.9\transforms\be3321acfa52cc3c794695d9b0e8de80\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
@@ -82,41 +82,41 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\T480s\.gradle\cach
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] C:\Users\T480s\.gradle\caches\8.9\transforms\6597380c7815ae0379b514b75c1514eb\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:11:9-35
 	android:label
-		ADDED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:10:9-41
 	android:fullBackupContent
-		ADDED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:8:9-54
+		ADDED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:8:9-54
 	tools:targetApi
-		ADDED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:13:9-29
+		ADDED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:13:9-29
 	android:icon
-		ADDED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:12:9-51
+		ADDED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:12:9-51
 	android:dataExtractionRules
-		ADDED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:7:9-65
+		ADDED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:7:9-65
 activity#com.example.kotlin_classes.MainActivity
-ADDED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:14:9-22:20
+ADDED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:14:9-22:20
 	android:exported
-		ADDED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:16:13-36
+		ADDED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:16:13-36
 	android:name
-		ADDED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:15:13-41
+		ADDED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:15:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:17:13-21:29
+ADDED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
-ADDED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:18:17-69
+ADDED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:18:25-66
+		ADDED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:20:17-77
+ADDED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:20:27-74
+		ADDED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:20:27-74
 uses-sdk
-INJECTED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml
-INJECTED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml
+INJECTED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml
+INJECTED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\T480s\.gradle\caches\8.9\transforms\0cf36f58b1f6c5455fdf7d422b2bf58a\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\T480s\.gradle\caches\8.9\transforms\0cf36f58b1f6c5455fdf7d422b2bf58a\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\T480s\.gradle\caches\8.9\transforms\4ee00652a27631b1a58e38d174c2dcf6\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
@@ -197,16 +197,16 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\T480s\.gradle\caches\8.9\trans
 MERGED from [androidx.print:print:1.0.0] C:\Users\T480s\.gradle\caches\8.9\transforms\31a3ef00d554ca6d27034f41edaa3b10\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\T480s\.gradle\caches\8.9\transforms\ad04a6111024c149bc62972867b407a1\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\T480s\.gradle\caches\8.9\transforms\ad04a6111024c149bc62972867b407a1\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml
-INJECTED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml
+INJECTED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml
+INJECTED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml
-		ADDED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml
+		ADDED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml
-		ADDED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml
+		ADDED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\T480s\.gradle\caches\8.9\transforms\9fd458b2dab4e0ae1289d2c7eb00f361\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\T480s\.gradle\caches\8.9\transforms\18a8199cc81c086c07014c02b3fb7541\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20

@@ -6,45 +6,45 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="24"
-8-->C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml
+8-->C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="33" />
-9-->C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml
+9-->C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:5:5-23:19
+11-->C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:5:5-23:19
 12        android:allowBackup="true"
-12-->C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:6:9-35
+12-->C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 13-->[androidx.core:core:1.7.0] C:\Users\T480s\.gradle\caches\8.9\transforms\6597380c7815ae0379b514b75c1514eb\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 14        android:dataExtractionRules="@xml/data_extraction_rules"
-14-->C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:7:9-65
+14-->C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:7:9-65
 15        android:debuggable="true"
 16        android:extractNativeLibs="false"
 17        android:fullBackupContent="@xml/backup_rules"
-17-->C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:8:9-54
+17-->C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:8:9-54
 18        android:icon="@mipmap/ic_launcher"
-18-->C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:9:9-43
+18-->C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:9:9-43
 19        android:label="@string/app_name"
-19-->C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:10:9-41
+19-->C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:10:9-41
 20        android:supportsRtl="true"
-20-->C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:11:9-35
+20-->C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:11:9-35
 21        android:theme="@style/Theme.KotlinClasses" >
-21-->C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:12:9-51
+21-->C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:12:9-51
 22        <activity
-22-->C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:14:9-22:20
+22-->C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:14:9-22:20
 23            android:name="com.example.kotlin_classes.MainActivity"
-23-->C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:15:13-41
+23-->C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:15:13-41
 24            android:exported="true" >
-24-->C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:16:13-36
+24-->C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:16:13-36
 25            <intent-filter>
-25-->C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:17:13-21:29
+25-->C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:17:13-21:29
 26                <action android:name="android.intent.action.MAIN" />
-26-->C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:18:17-69
-26-->C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:18:25-66
+26-->C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:18:17-69
+26-->C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:18:25-66
 27
 28                <category android:name="android.intent.category.LAUNCHER" />
-28-->C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:20:17-77
-28-->C:\Kotlin-Classes\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:20:27-74
+28-->C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:20:17-77
+28-->C:\Kotlin-Classes\AbgabeKotlinClasses\Abgabe_KotlinClasses\app\src\main\AndroidManifest.xml:20:27-74
 29            </intent-filter>
 30        </activity>
 31

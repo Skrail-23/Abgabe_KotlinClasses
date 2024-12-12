@@ -42,7 +42,7 @@ class Library {
 
     fun displayBookStatuses() {
         books.forEach { book ->
-            println("Title: ${book.title}, Status: ${book.status.getDescription()}")
+            println("- Title: ${book.title}\n  Status: ${book.status.getDescription()}")
         }
     }
 }
