@@ -27,6 +27,9 @@ captures/
 # MacOS
 *.DS_Store
 
+# Ignore Kotlin compiler cache files
+**/build/kotlin/compile*/cacheable/
+
 # Windows
 Thumbs.db
 ehthumbs.db

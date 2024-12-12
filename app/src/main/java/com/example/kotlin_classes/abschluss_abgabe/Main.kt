@@ -25,9 +25,9 @@ fun main() {
 
     // Print Genre Descriptions
     println("Genres and Their Descriptions:")
-    Genre.values().forEach {
-        println("- ${it.name}: ${it.description}")
-    }
+    Genre.FICTION.printAllDescriptions()
+
+
     println("------------------------------------\n")
 
     // Create Member

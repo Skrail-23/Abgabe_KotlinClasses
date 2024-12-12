@@ -8,6 +8,11 @@ enum class Genre(val description: String) {
     CHILDREN("Books for children");
 
     fun printDescription() {
-        println(description)
+        println("- $description")
+    }
+
+    // Function to print all genre descriptions
+    fun printAllDescriptions() {
+        values().forEach { it.printDescription() }
     }
 }
